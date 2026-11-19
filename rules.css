@@ -1,0 +1,61 @@
+#m1 {width:600px;
+     background-color: rgb(107, 164, 200);
+     padding: 20rem;
+     margin:auto;}
+
+#m2 {width:550px;
+     background-color: lightblue;
+     padding: 25rem;
+     margin:auto;}
+
+#m3 {width:600px;
+     background-color: gold;
+     padding: 20rem;
+     margin:auto;}
+
+#m4 {width:550px;
+     background-color: darkorchid;
+     padding: 25rem;
+     margin:auto;}
+
+@font-face {
+     font-family:probold;
+     src: url(fonts/SourceSansPro-Bold.woff2);
+}
+
+@font-face {
+     font-family:sourcebold;
+     src: url(fonts/OpenSans-Bold.woff2);
+}
+
+html {font-size:65%;}
+
+#container {width:750px;
+            background-color: firebrick;
+            padding: 18rem;
+            margin:auto;}
+
+h1,h2,h3 {color: rgb(199, 240, 152); 
+      font-style:oblique;
+      font-weight:500px;
+      font-family:probold;
+      font: size 14rem;}
+
+.hoppers {background-color: rgb(231, 161, 255);}
+.zootopia {background-color: lightskyblue;}
+.badguys {background-color: lightsalmon;}
+.pussinboots2 {background-color: palegoldenrod;}
+
+p {font-family:sourcebold;
+   width:400px;
+   font: size 18em;}
+
+a.reference {font: size 15em;
+             width:350px;}
+
+
+a:link {color: rgb(246, 204, 126);
+        background-color: mediumaquamarine;}
+
+a:visited {color: rgb(197, 247, 124);
+           background-color: mediumturquoise;}
